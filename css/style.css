@@ -1,0 +1,28 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#container {
+    padding-left: 112px;
+    display: flex;
+    align-self: center;
+}
+
+#logo {
+    width: 27px;
+    height: 26.99px;
+}
+#navbar {
+    display: flex;
+}
+
+#produtos {
+    display: flex;
+}
+
+.btn-red {
+    background: #8E2424;
+    outline: 0px auto;
+}
